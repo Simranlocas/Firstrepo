@@ -1,0 +1,29 @@
+[33mcommit b5d8bf9ecef38e3581ab6ff1a42f82f0f07995ed[m[33m ([m[1;36mHEAD -> [m[1;32mbranch2[m[33m)[m
+Author: Your Namecls <you@example.com>
+Date:   Thu Sep 28 15:42:25 2023 +0530
+
+    Data pushing to branch2 created from command line
+
+[33mcommit 3758183444e60025c285b0731c3f8b04be46e82a[m[33m ([m[1;32mmain[m[33m)[m
+Author: Simranlocas <146313868+Simranlocas@users.noreply.github.com>
+Date:   Thu Sep 28 15:36:01 2023 +0530
+
+    Add title
+
+[33mcommit 69079f179b3591bbb7f6d7fdeb1fbf15ded6cab8[m[33m ([m[1;31morigin/main[m[33m)[m
+Author: Your Namecls <you@example.com>
+Date:   Thu Sep 28 15:34:27 2023 +0530
+
+    New file additiion
+
+[33mcommit 804d2edf63cbed128a9a24798e09fa0e0c33f98c[m
+Author: Your Namecls <you@example.com>
+Date:   Thu Sep 28 15:20:26 2023 +0530
+
+    New data
+
+[33mcommit 74cb2cfeb443b904674cd959125763bad0fbb418[m
+Author: Your Namecls <you@example.com>
+Date:   Thu Sep 28 14:45:02 2023 +0530
+
+    First git commit message
